@@ -1,0 +1,11 @@
+commit 8563df031b6559680f570ec4733977e7225d9073
+Author: 1Nestor <nes_spiderrr@hotmail.com>
+Date:   Fri Nov 24 19:23:20 2023 +0100
+
+     funciona
+
+commit b71a54b95275b4c36e03615cd0b85c4e6c70fa42
+Author: 1Nestor <nes_spiderrr@hotmail.com>
+Date:   Fri Nov 24 19:22:18 2023 +0100
+
+     Entrego a ver
